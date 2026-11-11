@@ -1,2 +1,2 @@
-# Hardware-Firewall
-Raspberry Pi with a dual NIC hat running (pfSense /OPNsense) to route and filter traffic.
+# Time Based One Time Password USB
+Raspberry Pi Pico 2W with the pico explorer to display the code.
